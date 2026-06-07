@@ -1,22 +1,22 @@
 {
-    "version": "0.5.0",
+    "version": "0.6.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/educlopez/mallard/releases/download/v0.5.0/mallard_0.5.0_windows_amd64.zip",
+            "url": "https://github.com/educlopez/mallard/releases/download/v0.6.0/mallard_0.6.0_windows_amd64.zip",
             "bin": [
                 "mallard.exe"
             ],
-            "hash": "86ea12dac5c590c402c54b6d0d16c2c92bceac1360af67df90dec3bf734c3431"
+            "hash": "dbba98e0bde5c4c1360e12287e63cfe620732f9175fc8aeaa149aeeca264b462"
         },
         "arm64": {
-            "url": "https://github.com/educlopez/mallard/releases/download/v0.5.0/mallard_0.5.0_windows_arm64.zip",
+            "url": "https://github.com/educlopez/mallard/releases/download/v0.6.0/mallard_0.6.0_windows_arm64.zip",
             "bin": [
                 "mallard.exe"
             ],
-            "hash": "91d568acb53c8784e56bb4cd1328c9f5f2f90debad8581275aa623c33bd4e62e"
+            "hash": "7955243953a5448811ea65facb85f09688483f2c1f94a829c65991a4d2e6c692"
         }
     },
-    "homepage": "https://github.com/educlopez/mallard",
+    "homepage": "https://mallard.educalvolopez.com",
     "license": "MIT",
     "description": "Claude Code toolkit for PrestaShop development — skills, commands, and agents."
 }
