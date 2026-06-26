@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/educlopez/ui-craft/releases/download/v1.0.0/ui-craft_1.0.0_windows_amd64.zip",
+            "bin": [
+                "ui-craft.exe"
+            ],
+            "hash": "40877cc55756a205725e5f3613290621ff64549b53457e1794e7171e1526093f"
+        },
+        "arm64": {
+            "url": "https://github.com/educlopez/ui-craft/releases/download/v1.0.0/ui-craft_1.0.0_windows_arm64.zip",
+            "bin": [
+                "ui-craft.exe"
+            ],
+            "hash": "8383e7b372150d59655c3b4f3eb3d136bdeaf47d8596daedd18c5d7634900247"
+        }
+    },
+    "homepage": "https://skills.smoothui.dev",
+    "license": "MIT",
+    "description": "ui-craft CLI — install the UI Craft design system into any AI agent harness"
+}
