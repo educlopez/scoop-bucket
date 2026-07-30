@@ -1,19 +1,19 @@
 {
-    "version": "0.15.0",
+    "version": "0.15.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/educlopez/mallard/releases/download/v0.15.0/mallard_0.15.0_windows_amd64.zip",
+            "url": "https://github.com/educlopez/mallard/releases/download/v0.15.1/mallard_0.15.1_windows_amd64.zip",
             "bin": [
                 "mallard.exe"
             ],
-            "hash": "25f0c5f88a51753e6fc57b460baa363193a89d8d542b5b58ee067576d9054cf4"
+            "hash": "2d0ed89695d8ce8f7a9d5b84194660c6a079ffa4813b10b9955e9fcfe99af0fe"
         },
         "arm64": {
-            "url": "https://github.com/educlopez/mallard/releases/download/v0.15.0/mallard_0.15.0_windows_arm64.zip",
+            "url": "https://github.com/educlopez/mallard/releases/download/v0.15.1/mallard_0.15.1_windows_arm64.zip",
             "bin": [
                 "mallard.exe"
             ],
-            "hash": "b080d748d406b0096bdc212a90bbdeb1516300772d2f6e866b44456c7f8363f9"
+            "hash": "3d9fd9c5984d524aaca93f1aa533ff99bfce058d6c8212ec2d1c61f6c3b5fd6a"
         }
     },
     "homepage": "https://mallard.educalvolopez.com",
