@@ -1,19 +1,19 @@
 {
-    "version": "1.0.19",
+    "version": "1.0.20",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/educlopez/ui-craft/releases/download/v1.0.19/ui-craft_1.0.19_windows_amd64.zip",
+            "url": "https://github.com/educlopez/ui-craft/releases/download/v1.0.20/ui-craft_1.0.20_windows_amd64.zip",
             "bin": [
                 "ui-craft.exe"
             ],
-            "hash": "139b56616b423400fa47c57df173641803d85240ff0cc8ae4c74e6bf3c6b1292"
+            "hash": "7b400eb849eac52bc155f3c6ea61d5ef800d42e8e9793a50d2d76eef99991e9e"
         },
         "arm64": {
-            "url": "https://github.com/educlopez/ui-craft/releases/download/v1.0.19/ui-craft_1.0.19_windows_arm64.zip",
+            "url": "https://github.com/educlopez/ui-craft/releases/download/v1.0.20/ui-craft_1.0.20_windows_arm64.zip",
             "bin": [
                 "ui-craft.exe"
             ],
-            "hash": "e6a9b6bec9c09b4ad8e06967c71ed1118f7658d0a552144a6f739aa54118c783"
+            "hash": "ba6c47150fd3cfde9c2dbfa061267a60951c4c973c75cb8622fab4915658dedb"
         }
     },
     "homepage": "https://skills.smoothui.dev",
