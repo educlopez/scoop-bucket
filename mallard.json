@@ -6,14 +6,14 @@
             "bin": [
                 "mallard.exe"
             ],
-            "hash": "b71750a653752cc4c8c1992a31c9967dc217659de73867b6c555f6b659c21fb0"
+            "hash": "02fef46a58b9d2c5ea5cb0d4d2a4d7d54e778353fa480e0f2c3f30c8f3537ae1"
         },
         "arm64": {
             "url": "https://github.com/educlopez/mallard/releases/download/v0.35.0/mallard_0.35.0_windows_arm64.zip",
             "bin": [
                 "mallard.exe"
             ],
-            "hash": "229bb2224e1533a79a6b380877f9928b13e285bbdbabb3c28b7bd47045e4400c"
+            "hash": "6b82edfb7339192527c8b5973f5b74eff6127de4e57d56da1807488221676f09"
         }
     },
     "homepage": "https://mallard.educalvolopez.com",
